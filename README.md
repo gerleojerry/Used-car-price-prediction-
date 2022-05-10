@@ -1,0 +1,3 @@
+**Problem Statement:** To predict the price of used cars
+
+The problem is a supervised learning problem, regression problem to precise, To solve the problem, some columns were dropped and also some samples were dropped. were algorithms were trained so as to select the most accurate model based on their r2_score value, the algorithms that was used include, LinearRegression, Lasso Regression, Ridge Regression, DecisionTreeRegressor, RandomForestRegressor, DecisionTreeRegressor and ExtraTreesRegressor.
